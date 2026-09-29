@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.nahorody57.awards",
+      "sha256_cert_fingerprints": [
+        "4C:05:71:FF:E1:9C:93:60:56:F9:CE:22:EF:54:D6:30:65:10:82:3A:06:04:59:9E:F3:6E:0A:0F:1F:78:FA:BC"
+      ]
+    }
+  }
+]
